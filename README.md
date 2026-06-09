@@ -115,6 +115,7 @@ mission-control-ai/
 │
 ├── README.md
 ├── Fluxograma.png
+├── explicacao_logica.md
 ├── mission_control.py
 └── assents/
     ├── Print_menu.png
