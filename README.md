@@ -112,6 +112,7 @@ mission-control-ai/
 └── assents/
     ├── Print_menu.png
     ├── Print_critico.png
+    ├── Print_ciclos.png
     └── Print_relatorio.png
 ```
 
