@@ -79,7 +79,7 @@ mission-control-ai/
 
 ---
 
-## 🎬 Vídeo de Demonstração
+## Vídeo de Demonstração
 
 [▶️ Assistir ao vídeo no YouTube](https://youtu.be/AwM-AK3bJo0)
 
