@@ -95,9 +95,9 @@ python mission_control.py
 
 ## Demonstração
 
-![Menu principal](assets/Print_menu.png)
-![Ciclo crítico](assets/Print_critico.png)
-![Relatório final](assets/Print_relatorio.png)
+![Menu principal](assents/Print_menu.png)
+![Ciclo crítico](assents/Print_critico.png)
+![Relatório final](assents/Print_relatorio.png)
 
 ---
 
