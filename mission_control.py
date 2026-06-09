@@ -433,7 +433,7 @@ def exibir_menu():
     print("║  [3] Executar analise completa           ║")
     print("║  [4] Historico de leituras manuais       ║")
     print("║  [5] Ver relatorio final                 ║")
-    print("║  [6] Analise com IA (Groq)               ║")
+    print("║  [6] Analise com IA (GroK)               ║")
     print("║  [0] Encerrar sistema                    ║")
     print("╚══════════════════════════════════════════╝")
     return input("  Escolha uma opção: ").strip()
