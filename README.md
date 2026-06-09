@@ -1,4 +1,4 @@
-# mission-control-ai
+# Mission Control Ai
 
 **FIAP Global Solution 2026.1**
 
