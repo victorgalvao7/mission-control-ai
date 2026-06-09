@@ -108,7 +108,7 @@ mission-control-ai/
 │
 ├── README.md
 ├── mission_control.py
-└── assets/
+└── assents/
     ├── Print_menu.png
     ├── Print_critico.png
     └── Print_relatorio.png
