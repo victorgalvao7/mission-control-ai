@@ -60,7 +60,7 @@ O **Mission Control AI** simula o acompanhamento de uma missão espacial experim
 - **Python 3** (sem bibliotecas externas)
 - Estruturas de dados: listas, matrizes (lista de listas), dicionários
 - Funções, estruturas condicionais e laços de repetição
-- intregacao com Ia - GROQ API
+- intregacao com Ia - GROK API
 
 ---
 
