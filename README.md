@@ -72,9 +72,9 @@ mission-control-ai/
 ├── README.md
 ├── mission_control.py
 └── assets/
-    ├── print_normal.png
-    ├── print_critico.png
-    └── print_relatorio.png
+    ├── Print_menu.png
+    ├── Print_critico.png
+    └── Print_relatorio.png
 ```
 
 ---
