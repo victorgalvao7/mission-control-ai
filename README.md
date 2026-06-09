@@ -102,12 +102,19 @@ python mission_control.py
 
 ---
 
+## Fluxograma
+
+![Fluxograma do sistema](fluxograma.png)
+
+---
+
 ## Estrutura do Repositório
 
 ```
 mission-control-ai/
 │
 ├── README.md
+├── fluxograma.png
 ├── mission_control.py
 └── assents/
     ├── Print_menu.png
