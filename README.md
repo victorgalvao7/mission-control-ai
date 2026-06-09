@@ -104,7 +104,7 @@ python mission_control.py
 
 ## Fluxograma
 
-![Fluxograma do sistema](fluxograma.png)
+![Fluxograma do sistema](Fluxograma.png)
 
 ---
 
@@ -114,7 +114,7 @@ python mission_control.py
 mission-control-ai/
 │
 ├── README.md
-├── fluxograma.png
+├── Fluxograma.png
 ├── mission_control.py
 └── assents/
     ├── Print_menu.png
