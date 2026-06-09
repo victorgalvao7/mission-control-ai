@@ -98,6 +98,7 @@ python mission_control.py
 ![Menu principal](assents/Print_menu.png)
 ![Ciclo crítico](assents/Print_critico.png)
 ![Relatório final](assents/Print_relatorio.png)
+![Relatório final](assents/Print_ciclos.png)
 
 ---
 
